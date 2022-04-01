@@ -32,6 +32,6 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="com/xiezirui/dao/userMapper.xml"/>
+        <mapper resource="com/xiezirui/dao/user/userMapper.xml"/>
     </mappers>
 </configuration>
